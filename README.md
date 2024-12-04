@@ -31,6 +31,3 @@ O objetivo principal deste projeto é ensinar os conceitos essenciais do HTML, a
 ## Como Utilizar
 Para utilizar este repositório, basta clonar ou fazer o download do projeto para o seu computador:
 
-```bash
-git clone https://github.com/seu-usuario/explorando-mundo-digital.git
-
