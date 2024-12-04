@@ -26,8 +26,3 @@ O objetivo principal deste projeto é ensinar os conceitos essenciais do HTML, a
 
 ## Tecnologias Utilizadas
 - **HTML5**: Linguagem de marcação básica utilizada para estruturar o conteúdo da página.
-- **CSS** (para formatação): Embora o foco principal não seja a estilização, a formatação básica foi aplicada para garantir uma boa apresentação.
-
-## Como Utilizar
-Para utilizar este repositório, basta clonar ou fazer o download do projeto para o seu computador:
-
